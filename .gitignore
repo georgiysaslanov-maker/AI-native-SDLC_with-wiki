@@ -1,0 +1,7 @@
+# Журнал scripts/sync.ps1 — локальный для каждого компьютера.
+sync.log
+
+# Служебный мусор Windows и Office (может появиться в raw/).
+Thumbs.db
+desktop.ini
+~$*

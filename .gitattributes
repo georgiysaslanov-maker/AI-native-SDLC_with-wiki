@@ -1,0 +1,3 @@
+# Windows-скрипты должны иметь CRLF, иначе cmd/PowerShell могут их неверно прочитать.
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
