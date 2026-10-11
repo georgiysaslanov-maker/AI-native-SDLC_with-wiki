@@ -33,6 +33,7 @@
 - [[ai-governance]] — program-owner отвечает за governance
 - [[ai-change-management]] — локальные эксперты как канал масштабирования
 - [[qa-agent]] — из этой команды происходит стартовое ядро платформы
+- [[self-hosted-llm-sizing]] — эксплуатация собственного инференса (MLOps)
 
 ## Источник
 

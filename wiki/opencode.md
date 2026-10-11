@@ -20,6 +20,8 @@
 - [[model-cost-routing]] — выбор модели под задачу
 - [[case-exolve-saas-pet-project]] — использован в кейсе
 - [[case-ai-load-test-analysis]] — использован в кейсе
+- [[llm-provider-options-russia]] — к каким провайдерам подключать
+- [[mws-gpt-model-hub]] — API совместим с OpenAI, подключается через шлюз
 
 ## Источник
 

@@ -25,6 +25,8 @@
 - [[ai-platform-team]] — eval-инфраструктура и Eval/Quality owner
 - [[ai-native-sdlc]] — стадия Test
 - [[case-ai-load-test-analysis]] — валидация скиллов на известных результатах
+- [[llm-provider-options-russia]] — evals как способ выбрать модель на своих задачах
+- [[open-weight-coding-models]] — публичные бенчмарки ненадёжны, нужны свои evals
 
 ## Источник
 

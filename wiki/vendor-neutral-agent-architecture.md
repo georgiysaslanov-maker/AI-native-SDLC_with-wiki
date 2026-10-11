@@ -37,6 +37,8 @@
 - [[ai-risk-register]] — R-08, R-14
 - [[ai-native-sdlc]] — исполнительный слой конвейера
 - [[opencode]] — текущий харнесс L2
+- [[llm-provider-options-russia]] — два российских провайдера за одним шлюзом
+- [[open-weight-coding-models]] — кандидаты на сменяемый L1
 
 ## Источник
 

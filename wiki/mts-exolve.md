@@ -20,6 +20,7 @@
 - [[qa-agent]] — внутренняя агентная система
 - [[case-exolve-saas-pet-project]] — сервис, построенный на публичном API Exolve
 - [[case-ai-load-test-analysis]] — нагрузочное тестирование платформы
+- [[mws-gpt-model-hub]] — LLM-сервис внутри группы МТС
 
 ## Источник
 

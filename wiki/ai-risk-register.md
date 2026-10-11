@@ -43,6 +43,7 @@
 - [[model-cost-routing]] — R-07
 - [[ai-governance]] — R-06, R-11
 - [[developer-skill-erosion]] — риск, не вошедший в реестр явно
+- [[llm-provider-options-russia]] — хостинг открытых моделей в РФ снижает R-13 и R-14, влияет на R-07
 
 ## Источник
 

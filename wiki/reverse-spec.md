@@ -21,6 +21,8 @@
 - [[phase-0-foundation]] — reverse-spec-образец как go/no-go
 - [[ai-risk-register]] — R-15, R-17
 - [[ai-change-management]] — вердикты по легаси как «тяжёлый» шаг enablement продукта
+- [[open-weight-coding-models]] — дешёвые модели для пакетного reverse-spec
+- [[self-hosted-llm-sizing]] — пакетная нагрузка reverse-spec в расчёте GPU
 
 ## Источник
 
